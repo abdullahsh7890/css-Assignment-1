@@ -1,0 +1,18 @@
+div > h1{
+    color: blue;
+    background-color: lightblue;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+div > p{
+    color: purple;
+}
+.hello{
+    background-color: yellow;
+    color: red;
+    height: fit-content;
+}
+.style{
+    background-color: green;
+    color: black;
+}
